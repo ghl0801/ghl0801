@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:C9BBA8,50:B5A8C9,100:A8BFC9&height=200&section=header&text=Myungjae%20Lee&fontSize=50&fontAlignY=40&fontColor=4A4458&desc=Information%20%26%20Communication%20Engineering&descSize=17&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:C9BBA8,50:B5A8C9,100:A8BFC9&height=200&section=header&text=Myungjae%20Lee&fontSize=50&fontAlignY=40&fontColor=4A4458&desc=Information%20and%20Communication%20Engineering&descSize=17&descAlignY=58" alt="header" />
 
 ### AI 에이전트가 학교 시스템에 닿게 만듭니다
 
