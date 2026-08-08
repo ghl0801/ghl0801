@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:C9BBA8,50:B5A8C9,100:A8BFC9&height=200&section=header&text=Myungjae%20Lee&fontSize=50&fontAlignY=40&fontColor=4A4458&desc=Information%20and%20Communication%20Engineering&descSize=17&descAlignY=58" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:785526,50:462678,100:265F78&height=200&section=header&text=LEE%20MYEONGJAE&fontSize=48&fontAlignY=38&fontColor=4A4458&desc=Information%20and%20Communication%20Engineering&descSize=17&descAlignY=56" alt="header" />
 
 ### AI 에이전트가 학교 시스템에 닿게 만듭니다
 
@@ -57,6 +57,6 @@
 
 [![Email](https://img.shields.io/badge/lmj080150@gmail.com-B5A8C9?style=flat-square&logo=gmail&logoColor=4A4458)](mailto:lmj080150@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:A8BFC9,50:B5A8C9,100:C9BBA8&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:265F78,50:462678,100:785526&height=120&section=footer" alt="footer" />
 
 </div>
