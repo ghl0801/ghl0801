@@ -21,6 +21,7 @@
 | [**명지전문대 MCP 서버**](https://github.com/4thIS/hachathon_mjc_mcp)<br/>도서관 좌석 · 학사공지 · 강좌정보 | AI 에이전트가 실제 학교 시스템에 접근하는 어댑터를 **프로토콜 수준에서** 설계·검증한 경험 (Python · MCP SDK · pytest) |
 | [**dictatel**](https://github.com/ghl0801/dictatel)<br/>음성 인식 인터랙티브 일기장 | 라이브러리·이미지·음원을 **하나도 쓰지 않고** 만든 것 — Web Speech API로 받아쓰고, 기계음은 Web Audio API로 실시간 합성하고, 금속 질감은 CSS로 그렸다 |
 | [**학교 잠입**](https://github.com/ghl0801/school-stealth)<br/>2D 스텔스 게임 | 규칙을 직접 설계한 경험 — 시야 판정·경계 게이지·순찰. *걸리자마자 발각시키면 회피할 틈이 없어서* 게이지가 찰 때까지 유예를 뒀다 (Phaser 4 · Vite) |
+| [**서울 출사 장소 시트**](https://github.com/ghl0801/seoul-photo)<br/>사진 촬영지 68곳 지도 | 남이 만든 데이터가 아니라 **직접 모아 정리한 것** — 68개 장소를 좌표·계절·골든아워·삼각대 가능 여부까지 담아 지도에 올렸다. 빌드 도구 없이 단일 HTML (Leaflet · Tailwind) |
 | [**CRUD 게시판**](https://github.com/ghl0801/crud-board) · [데모](https://crud-board-livid.vercel.app)<br/>서버리스 게시판 | 프레임워크·ORM 없이 프론트부터 DB까지 한 사람이 관통한 최소 단위 (HTML/CSS/JS · Vercel Functions · Postgres) |
 
 <br/>
